@@ -1,11 +1,13 @@
 first_variable := 1
 second_variable := 2
 
-third_variable := 3
+third_variable:=3
 
 
-fourth_variable := True
+fourth_variable :=True
 
 
 
-fifth_variable := False
+fifth_variable:= False
+
+sixth_variable := 2 + 2
