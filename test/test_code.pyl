@@ -4,10 +4,10 @@ second_variable := 2
 third_variable:=3
 
 
-fourth_variable :=True
+fourth_variable :=true
 
 
+fifth_variable:= false
 
-fifth_variable:= False
-
-sixth_variable := 2 + 2
+sixth_variable := 2 + 2 +10
+seventh_variable :="string example"
