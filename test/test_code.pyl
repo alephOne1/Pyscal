@@ -9,5 +9,5 @@ fourth_variable :=true
 
 fifth_variable:= false
 
-sixth_variable := 2 + 2 +10
+sixth_variable := 1 + first_variable - 1 + 1 - 1 + 1 + second_variable
 seventh_variable :="string example"
